@@ -11,74 +11,112 @@ export const questionData = {
         {
             id: 2,
             question: 'Q2 - Why are you interested in studying this course? <b>OR</b> Why Choose this course',
-            answer: `The main reason for selecting this <b>INTERNATIONAL MBA</b> course is that it provides me with all the exposure I am looking for in its curriculum. 
-        <br />•        The course I am going to pursue is international business management in MBA the course covers models like International finance ,marketing strategy, digital leadership ,project management strategic leadership, organisational resilience ,International logistics, and operation performance. Which are designed as per todays market need and aims at full stack development of student
-        <br />•        Through this course I will enhance my understanding of core business knowledge and develop the ability to identify and manage important issues relevant to international businesses.
-        <br />•        This course involves various business case studies and existing approaches to business management. At the same time it gives importance to new business innovations also.
-        <br />•        This course will help you to be confident in your leadership capabilities, and be prepared for senior management career advancement.
-        <br />•        This MBA course will prepare you be fit for the highly competitive business and management world.
-        <br />•        I have chosen to study the IMBA at BNU as a wide spectrum of modules are offered.
-        <br />•        I am looking forward to the Strategic leadership module. It would be really amazing to be in actual corporate scenarios and try to devise solutions. Instead of completely following textbooks word by word, it is important to bring in your own creativity into it and I believe this module would help me tap into that potential
-        <br />•        I will also have the chance to personalise my learning and specialise in an area of international management of my choosing. This includes areas relating to international trade, supply chain management, contemporary business models, creativity, leadership, innovation, and managing on a global scale.
-        <br />•        This programmes helps graduates and professionals from any background to develop a
-        global career in business and management. By specialising in international business, I can place myself in a more marketable position because a broad knowledge of business practice around the world is highly relevant, becoming increasingly valuable to employers.
-        <br />•        the approach of this course is also effective as it is offering practical training after the completion of theoretical studies which we cannot find in India mainly.
-        <br />•        If I have to talk about the modules then all the modules that are being offered by this course are very much standardized as per today’s market needs.
+            answer: `The main reason for selecting this <b>Msc Cybersecurity</b> course is that it provides me with all the exposure I am looking for in its curriculum. 
+        <br />•        Cyber ​​security is a growing industry with a high demand for skilled professionals A Master's in Cyber ​​Security can open up career opportunities  in fields such as security analyst, network engineer, and information security
+               <br />•        The program prepares students for various industry-recognized certifications including CISSP, CEH, and CompTIA Security+
+        <br />•        The program may include a core project that enables this students to apply their knowledge to real-world problems  Many graduate cyber  programs offer flexible learning options such as online and part-time programs
+        <br />•        The curriculum is  updated frequently to keep up with the latest developments cyber security trends and threats.
+        <br />•        The program includes courses for digital commuters
+
+        <br />•  <b>Career Opportunities:</b> Pursuing an MSc in Cyber Security can open up a wide range of career opportunities, including roles such as security analyst, network engineer, and information security officer.
+
+        <br />•  <b>High Demand:</b> Cybersecurity is a growing field with high demand for skilled professionals, and this trend is expected to continue in the future.
+
+        <br />•  <b>Job Security:</b> With cyber attacks becoming more sophisticated and frequent, there is a growing need for professionals who can protect and defend digital systems and networks.
+
+        <br />•  <b>Competitive Salaries:</b> Cybersecurity professionals are in high demand, which often results in high salaries and excellent benefits.
+
+        <br />•  <b>Technological Advancements:</b> As technology continues to evolve, so do the security risks and challenges. Pursuing an MSc in Cyber Security will provide you with the knowledge and skills to keep up with these advancements.
+
+        <br />•  <b>Variety of Roles:</b> Cybersecurity is a diverse field, and pursuing an MSc in Cyber Security will prepare you for a variety of roles within the industry.
+
+        <br />•  <b>Multi-disciplinary Approach:</b> Cybersecurity combines principles from computer science, mathematics, and engineering, providing a multi-disciplinary approach to solving complex security challenges.
+
+        <br />•  <b>Real-world Applications:</b> The skills and knowledge you acquire while pursuing an MSc in Cyber Security have real-world applications that can be applied to a variety of industries.
+
+        <br />•  <b>Ethical Hacking:</b> You will learn about ethical hacking, including how to identify and exploit vulnerabilities in computer systems, which can help organizations to identify and mitigate security threats.
+
+        <br />•  <b>Digital Forensics:</b> The program includes courses on digital forensics, which is the process of collecting and analyzing digital evidence to investigate cyber crimes.
+
+        <br />•  <b>Risk Management:</b> You will learn about risk management, which is the process of identifying, assessing, and prioritizing risks, and developing strategies to mitigate or transfer those risks.
+
+        <br />•  <b>Policy Development:</b> You will learn about the development of cybersecurity policies and best practices to protect organizations against security threats.
+
+        <br />•  <b>Legal Issues:</b> The program will cover legal issues related to cybersecurity, including compliance with privacy laws and regulations.
+
+        <br />•  <b>Industry Certifications:</b> The program prepares students for industry-recognized certifications, such as CISSP, CEH, and CompTIA Security+.
+
+        <br />•  <b>Research Opportunities:</b> Pursuing an MSc in Cyber Security can open up opportunities for research in the field, allowing you to contribute to the development of new security technologies and best practices.
+
+        <br />•  <b>Collaboration:</b> The program provides opportunities to collaborate with peers and industry professionals, helping you to build a network of contacts in the field.
+
+        <br />•  <b>Continuous Learning:</b> Pursuing an MSc in Cyber Security is an excellent way to stay up-to-date with the latest trends and advancements in the field, ensuring continuous learning and professional development.
+
+        <br />•  <b>Professional Growth:</b> The program can help you to develop valuable leadership and project management skills, which are highly sought-after by employers.
+
+        <br />•  <b>Personal Fulfillment:</b> Protecting digital systems and networks from security threats can be highly fulfilling, as it provides a sense of purpose and contributes to the greater good.
+
+        <br />•  <b>Future-proofing your Career:</b> Pursuing an MSc in Cyber Security will equip you with skills and knowledge that are in high demand and can help future-proof your career.
+
         `
         },
         {
             id: 3,
-            question: 'Q2-Why are you interested in studying this course? <b> OR </b> Module Name',
+            question: 'Q2- Module Name',
             answer: ` <br />•        This course has been designed to prepare and develop your ability to carry out advanced analysis and research in the field of business within a global context.
          <br />•        Through the extensive academic resources in the program, including not only classes and lectures but also the industry links and practical experiences, I expect to emerge with a highly practical understanding of how to manage a complex business in the contemporary dynamic world. (Also please discuss the modules and explain one of them for modules, please use the university course link.)
          <br />•        the modules that are being offered by this course are very much standardized as per today’s market needs. All modules are .
-         <br />•        Marketing Strategy
-         <br />•        Strategic Leadership
-         <br />•        Organisational Resilience
-         <br />•        Digital Leadership
-         <br />•        International Management of Finance
-         <br />•        Leading, Managing and Developing Talent
-         <br />•        International Logistics and Operations Performance
-         <br />•        Project Management <br />
+         <br />•        Cyber Security Assurance and Risk Management - 20
+         <br />•        Business Continuity and Cyber Resilience -20
+         <br />•        Project - 60 
         <b>Some optional modules are</b>
-         <br />•        Dissertation (optional)
-         <br />•        Consultancy Project (optional)
-         <br />•        Negotiated Work Based Learning Project (optional)
+         <br />•        Mobile and Information Systems Security Management -20
+         <br />•        Cyber Security in Network Systems -20
+         <br />•        Cloud Security -20
+         <br />•        AI Based Security Systems -20
         Total credit points :180`
         },
         {
             id: 4,
             question: 'Q4 - Explain any 2 modules of your choice <b> OR </b> Module Details',
-            answer: ` ➢  I am excited about the <b>Leading, Managing and Development Talent module</b>. One of the fundamental aspects of running a business is Human Resource Management. Not only is it important to hire the right people, it is also essential to institute a training structure that would constantly adapt itself to the changing times. A constantly evolving workforce would contribute significantly to the success of the business. So I believe this module will immensely help me to develop a good team and lead and motivate them to increase the productivity of the organisation <br />
-         <br />➢  I am also looking forward to the <b>Strategic leadership module</b>. It would be really amazing to be in actual corporate scenarios and try to devise solutions. Instead of completely following textbooks word by word, it is important to bring in your own creativity into it and I believe this module would help me for that. It willprepare me to think creatively and imply innovative strategies in the work environment. <br />
-         <br />➢  I think I would find the <b>International Management of Finance module</b> challenging since I have not had much exposure in that field earlier. However I am very much interested in the module as I believe it would be beneficial for my future plans. Managing finance is especially important when any organisation reaches the expansion phase. So the contents of this module would play an important role as far as money management and financial decisions are concerned. <br />
-         <br />➢  I am excited to learn <b>Organizational Resilience</b> in depth. It would be a challenging concept at the same time interesting to study how an organization should anticipate, prepare for, respond and adapt to incremental change and sudden disruptions in order to survive and prosper. I believe a person who is looking for a managerial role should be aware of this aspect. Because a responsible manager should be able to devise strategies anticipating such unexpected incidents. <br />
-         <br />➢  <b>marketing strategy</b> refers to a business overall game plan for reaching prospective consumers and turning them into customers of their product or services marketing strategy covers the 4ps of marketing product price place and promotion <br />
-         <br />➢   <b>project management</b> is the use of specific knowledge skills Tools and techniques to deliver of something of value to people each product is unique and differs from rate of operation and the ongoing activities of an organisation`
+            answer: ` ➢ I am excited about the <b> Cyber Security Assurance and Risk Management </b>. One of Organizations implement cybersecurity risk management in order to ensure the most critical threats are handled in a timely manner. This approach helps identify, analyze, evaluate, and address threats based on the potential impact each threat poses. n short, cybersecurity commonly deals with vulnerabilities and cyber risks, while IT risk management commonly deals with how an organization's data, devices, networks, and assets are protected and managed <br />
+            
+            <br />➢  I  also look forward to  <b> business continuity and cyber resilience</b>. This can provide benefits that go beyond improving enterprise security  and reducing  risk  to  critical infrastructure Cyber ​​resilience also helps reduce financial losses and reputational damage. Experts in the field will tell you that cyber security is about protecting against cyber hackers who gain access to a company's network or attempt to access a company's information system and data When it comes to cyber resilience, experts define it as  a company's response to a cyber attack and how it will recover <br />
+
+            <br />➢  I think I would find the <b>International Management of Finance module</b> challenging since I have not had much exposure in that field earlier. However I am very much interested in the module as I believe it would be beneficial for my future plans. Managing finance is especially important when any organisation reaches the expansion phase. So the contents of this module would play an important role as far as money management and financial decisions are concerned. <br />
+
+            <br />➢  I am excited to learn about <b> mobile and information systems Comprehensive security  management</b>  is the process of protecting an 's data and resources from potential threats One of the main goals of these processes is to protect data confidentiality, integrity and availability Mobile device security means measures designed to protect the confidential information it stores  <br />
+
+            <br />➢  <b> Cloud security </b>  ensures your data and applications are readily available to authorized users. Data loss is the most common cloud security risks of cloud computing. It is also known as data leakage. Data loss is the process in which data is being deleted, corrupted, and unreadable by a user, software, or application. <br />`
         },
         {
             id: 5,
             question: 'Q5 - How is the course relevant to your future plans? <b> OR </b> Future plans',
-            answer: ` After completing my GRADUATION I gave time to my self to think what I have to do in future , after researching all the field and my interest of study I found out that business studies is a great area to consider and make career in it .
-         <br />•        A master’s in international management can prepare me for a career at home and abroad across all sectors, including business, international agencies, and government.
-         <br />•        Typical career paths include consultancy, international accounting and finance, as well as marketing.
-         <br />•        Studying international management can help me become more engaged in global business and management practices around the world.
-         <br />•        I hope to be placed in a Managerial level in well known organizations Like Tata, Reliance, Hindustan Unilever, Infosys, Bajaj Ltd, Lulu Group etc..
-         <br />•        This MBA would be certainly helpful for me to manage a bigger team. I am aiming at roles like zonal manager or regional manager, and for that I need to have more advanced knowledge about various aspects of business like finance management, strategic leadership, project management, how to effectively handle the operations of organizations, how to contribute to the growth of company etc. I believe I can surely gain these skills from this MBA
-         <br />•        The businesses around the globe is growing rapidly and has great potential. India has great potential to offer employments in the business sector.
-         <br />•        By studying the MBA, I hope to have the expertise, perspective and experience to lead India’s Business industry into a new era. I would like to improvise the current Indian Products and services where required and take necessary steps to showcase my country’s potential in the Global Market.
-         <br />•        I believe the Faculty at BNU will be my guiding force and my classmates from various parts of the world will be my network which plays an important role in shaping the global presence of India.
-         <br />•        Also, these companies pay really well. Plus, international exposure will work wonders for one’s career. Therefore, one can confidently say that the future is very bright for a degree in international business.
-         There is a large scope of employment in different positions like
-         <br />•        International Marketing Manager.
-         <br />•        International Product Manager.
-         <br />•        Finance Analyst.
-         <br />•        Business Development Manager.
-         <br />•        Research Analyst.
-         <br />•        ZONAL Manager.
-         <br />•        International Supply Chain Manager.
-         <br />•        Human Resources Manager<br />
-        This international exposure will enhance my skills and knowledge of the business market, I would be having the immense opportunity to work with big corporate groups, high-tech and start-up companies, and government organizations in my hometown in India.`
+            answer: `Throughout this course, I will focus on developing solutions to real-world problems related to changing IT infrastructure and growing data volumes, as well as gaining a deep understanding of the underlying models and techniques, equipping me with the practical skills required to become a computer specialist. I will have the opportunity to work in Systems Security Specialist, Cyber Security Engineer, System Security Analyst/Architect, Security Analyst,and Systems Administrator. 
+            <br />• <br />• 
+            <br />•        Cyber ​​security is a growing industry with a high demand for skilled professionals A Master's in Cyber ​​Security can open up career opportunities  in fields such as security analyst, network engineer, and information security
+        <br />•        The Master of Cyber ​​Security is a postgraduate study programme focuses on information security and digital technologies. 
+        <br />•        It is an interdisciplinary field that combines principles computer science, mathematics and engineering 
+        <br />•        The program is designed to teach students to recognize,analyze and mitigate security threats and vulnerabilities
+        <br />•         Students  learn about various security technologies,including encryption, network security and intrusion detection
+        <br />•         The curriculum covers both technical and non-technical subjects aspects of cyber security, including risk management, policy   and legal matters. The program usually lasts two years  and is suitable for university students must complete coursework and research projects
+        <br />• <br />• 
+
+             <br />•        There is a shortage of personnel with advanced skills in these emerging and growing fields, and graduates of this programme can progress to work in a multitude of roles and industries. This can be directed technology industry, related banking and financial sector or diverse ones such agriculture, healthcare, manufacturing and automotive. As a graduate of this programme, you'll have a solid understanding of the main disciplines that fall under these emerging and current areas. The kind of role you could go into includes:
+            <br />•        Systems Security Specialist
+            <br />•        Cyber Security Engineer
+            <br />•        System Security Analyst/Architect
+            <br />•        Information Analyst/Architect
+            <br />•        Security Analyst
+            <br />•        Security Engineer/Architect
+            <br />•        Security IT Manager/Director
+            <br />•        Systems Administrator
+            <br />•        Network Architect/Engineer
+            <br />•        CISO/CSO
+            <br />•        Forensics Investigator.
+            <br />  - This qualification is also heavily influenced by current research and developments that are at the forefront of the respective fields. It lends itself to a career in research and academia. Many of our graduates are expected to progress on to a MPhil/PhD and take on career in research and academia.
+            <br />  -  After completing my Master's degree at a UK university, I will be eligible to work on a post-study work visa, which will allow me to gain international work experience that will help me secure a position at a higher level in MNCs in India such as IBM, Tata Consultancy Services, Reliance Industries, Microsoft, and other well-known companies. After I gained extensive information at this institution, it is more preferred for me to find a decent career in India. I am excited to return to my home country and continue my profession. After getting foreign job experience, I plan to return to my home country, and I feel that because I will have an international degree and experience, I will be able to find good career prospects..
+         `
         },
         {
             id: 6,
@@ -89,27 +127,22 @@ export const questionData = {
             id: 7,
             question: 'Q7 -  What job will you get once you complete the course? <b> OR </b> Get Job',
             answer: `There is a large scope of employment in different positions after this course like • International Marketing Manager. • International Product Manager.
-            <br /> •      Finance Analyst.
-            <br /> •      Business Development Manager.
-            <br /> •      Research Analyst.
-            <br /> •      Zonal Manager.
-            <br /> •      International Supply Chain Manager.
-            <br /> •      Management Consultant
-            <br /> •      Business Analyst
-            <br /> •      Marketing Coordinator
-            <br /> •      Financial Analyst
-            <br /> •      Human Resource Coordinator
-            <br /> •      Operations Coordinator
-            <br /> •      Sales Executive
-            <br /> •      Project Manager
-            <br /> •      Product Manager
-            <br /> •      Supply Chain Analyst
-            <br /> •      Human Resources Manager`,
+            <br />•        Systems Security Specialist
+            <br />•        Cyber Security Engineer
+            <br />•        System Security Analyst/Architect
+            <br />•        Information Analyst/Architect
+            <br />•        Security Analyst
+            <br />•        Security Engineer/Architect
+            <br />•        Security IT Manager/Director
+            <br />•        Systems Administrator
+            <br />•        Network Architect/Engineer
+            <br />•        CISO/CSO
+            <br />•        Forensics Investigator.`,
         },
         {
             id: 8,
             question: 'Q8 - Did you consider any similar courses in the same subject area? ',
-            answer: 'no this course MBA is best suitable with my future plans ',
+            answer: 'no this course Msc Cybersecurity is best suitable with my future plans ',
         },
         {
             id: 9,
@@ -735,7 +768,7 @@ export const questionData = {
             <br/>- The reason behind selection this course at UEL is to develop experience with the advanced learning 
             technique in which I am lacking`,
         },
-        {   
+        {
             id: 6,
             question: `Q5  Why choose UEL?`,
             answer: `- -	After Some Research like University of Wolverhampton, Aston University, Oxford brookes, I finally made my mind with go to UEL
@@ -777,6 +810,6 @@ export const questionData = {
             <br/>-	This curriculum will enable me to get a broad understanding of important computer concepts before allowing me to specialize in a field that is relevant to the current work market. Take advantage of opportunities to gain real-world industrial experience working on real-world projects for real-world clients, and learn about current IT practices as well as the structure and demands of the global computer business. This course is built around a set of essential ideas that will engage me with the world, allow me to collaborate with others, push me to think in new ways and give me a supportive atmosphere in which I may grow. Programming, web development, project management, databases, and computer hardware are just a few of the things I will learn about. In the second semester, I will be given the option of choosing and specializing in one of several related topics.
 `,
         },
-        
+
     ]
 }
