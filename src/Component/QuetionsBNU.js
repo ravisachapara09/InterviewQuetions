@@ -29,7 +29,6 @@ const QuetionsBNU = () => {
             <div className='container'>
                 <div className='d-flex justify-content-between mt-3 '>
                     <div className='w-50'>
-                        <h1>Hello Bibs</h1>
                         <InputGroup>
                             <Input
                                 type='text'
