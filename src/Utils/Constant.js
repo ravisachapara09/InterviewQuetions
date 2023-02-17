@@ -149,7 +149,7 @@ export const questionData = {
         {
             id: 9,
             question: 'Q9 - Have you previously studied any other courses in this subject area? ',
-            answer: 'Accordingly relate this course with My previous studies ',
+            answer: 'My Previously studies is bachelor of computer application',
         },
         {
             id: 10,
@@ -301,7 +301,7 @@ export const questionData = {
         },
         {
             id: 20,
-            question: 'Q20 - Why did you decide not to study in india ?',
+            question: 'Q20 - Why did you decide not to study in india ? <b>Or</b> Not India',
             answer: `1. - A strong reputation: The UK has a strong reputation for first-class higher education and training and excellent research facilities.
 
         <br />2.  <b>  High-quality staff</b>Many UK academics are world leaders in their field and teaching and learning methods are constantly being developed to ensure high-quality teaching and learning environments for students.
@@ -425,7 +425,7 @@ export const questionData = {
         },
         {
             id: 26,
-            question: 'Q26. Which English test did you take? If yes, what score did you obtain on your English test?',
+            question: 'Q26. Which English test did you take? If yes, what score did you obtain on your English test? <b>Or</b> English score',
             answer: ' I gave TOEFL etc , and my overall score is  103  <br />Reading : 30, <br /> Listening : 26,  <br />Speaking :21,  <br />  Writing : 26',
         },
         {
@@ -628,7 +628,7 @@ export const questionData = {
         },
         {
             id: 60,
-            question: ' Why not other universities in the UK? <b>OR</b> Why Choose this University',
+            question: ' Why not other universities in the UK? <b>OR</b> Why Choose this University <b>OR</b> why uni',
             answer: `- I have applied to only one university which is Buckinghamshire New University. Before
         applying to this university, I searched for two universities like the University of Sheffield &
         Newcastle University but because of tuition fees, I didn’t apply to these universities.<br />
@@ -727,7 +727,7 @@ export const questionData = {
             question: `Q3 In detail, explain how you expect this course you will be studying at UEL to help you succeed with you 5 
             year plan? <b>OR</b> future plans`,
             answer: `-	Throughout this course, I will focus on developing solutions to real-world problems related to changing IT infrastructure and growing data volumes, as well as gaining a deep understanding of the underlying models and techniques, equipping me with the practical skills required to become a computer specialist. I will have the opportunity to work in database development, web application development, big data, software consultancy, database design, and development. 
-            <br/>-	There is a shortage of personnel with advanced skills in these emerging and growing fields, and graduates of this programme can progress to work in a multitude of roles and industries. This can be directed technology industry, related banking and financial sector or diverse ones such agriculture, healthcare, manufacturing and automotive. As a graduate of this programme, you'll have a solid understanding of the main disciplines that fall under these emerging and current areas. The kind of role you could go into includes:
+            <br/>-	There is a shortage of personnel with advanced skills in these emerging and growing fields, and graduates of this programme can progress to work in a multitude of roles and industries. This can be directed technology industry, related banking and financial sector. As a graduate of this programme, you'll have a solid understanding of the main disciplines that fall under these emerging and current areas. The kind of role you could go into includes:
             <br/>•	Big Data Analyst / Business Intelligence / Business Analyst
             <br/>•	Senior Software Architect / System Architect
             <br/>•	IT Project Manager / IT Consultant / IT Programme Manager
