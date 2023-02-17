@@ -5,12 +5,12 @@ export const questionData = {
             question: 'Q1 - Tell me something about yourself. ( INTRODUCTION ) ',
             answer: `<p>• my name is Ravi Chachpara, I am 22 years old, I belong to Surat Gujarat I have been staying in Surat for last 10 years and I was born on 23 November 2000 <br />• I completed my S.S.C. (10th grade) in March-2016 from Gujarat Secondary Education Board in Gandhinagar and secured 45.86 % and I have done my H.S.C (12th grade) in March-2018 from Gujarat Secondary and Higher Secondary Education Board in Gandhinagar with 63.71%.<br /> • Then, I completed my Bachelor of Computer Application in March-2021 from Veer Narmad South Gujarat University and secured a 7.02 CGPA. <br /> • a after completing my bachelor I got an opportunity to work as Software Developer in TST technology Company which I took immediately and have worked from Sep 2021 to till today with complete dedication. And My Hobbies is Codding and Cricket<br />
         <b>Family details</b> <br/>
-        I belong to a middle-class family. There are five members of my family. My father's name Viththalbhai Mohanbhai chachpara his Job Working is diamonds, my mother name is Hansaben Viththalbhai Chachpara her work is homemaker, and my brother's name is Nikunj Viththalbhai chachpara his Job Working is diamonds and my sister's name is Rushita Viththalbhai Chachpara her work is a homemaker.
+        There are five members of my family. My father's name Viththalbhai Mohanbhai chachpara his Job Working is diamonds, my mother name is Hansaben Viththalbhai Chachpara her work is homemaker, and my brother's name is Nikunj Viththalbhai chachpara his Job Working is diamonds and my sister's name is Rushita Viththalbhai Chachpara her work is a homemaker.
         </p>`
         },
         {
             id: 2,
-            question: 'Q2 - Why are you interested in studying this course? <b>OR</b> Why Choose this course',
+            question: 'Q2 - Why are you interested in studying this course? <b>OR</b><br/> Why Choose this course <b>OR</b><br/> Why do you want to study this course?',
             answer: `The main reason for selecting this <b>Msc Cybersecurity</b> course is that it provides me with all the exposure I am looking for in its curriculum. 
         <br />•        Cyber ​​security is a growing industry with a high demand for skilled professionals A Master's in Cyber ​​Security can open up career opportunities  in fields such as security analyst, network engineer, and information security
                <br />•        The program prepares students for various industry-recognized certifications including CISSP, CEH, and CompTIA Security+
@@ -92,7 +92,9 @@ export const questionData = {
         {
             id: 5,
             question: 'Q5 - How is the course relevant to your future plans? <b> OR </b> Future plans',
-            answer: `Throughout this course, I will focus on developing solutions to real-world problems related to changing IT infrastructure and growing data volumes, as well as gaining a deep understanding of the underlying models and techniques, equipping me with the practical skills required to become a computer specialist. I will have the opportunity to work in Systems Security Specialist, Cyber Security Engineer, System Security Analyst/Architect, Security Analyst,and Systems Administrator. 
+            answer: `Firstly , after completion of this course I will come back to my home country india as I have my whole family here, and I will apply to MNC [Multinational company] for job like Tata, Reliance, Hindustan Unilever, Infosys, Bajaj Ltd, Lulu Group etc..
+            <br />
+            Throughout this course, I will focus on developing solutions to real-world problems related to changing IT infrastructure and growing data volumes, as well as gaining a deep understanding of the underlying models and techniques, equipping me with the practical skills required to become a computer specialist. I will have the opportunity to work in Systems Security Specialist, Cyber Security Engineer, System Security Analyst/Architect, Security Analyst,and Systems Administrator. 
             <br />• <br />• 
             <br />•        Cyber ​​security is a growing industry with a high demand for skilled professionals A Master's in Cyber ​​Security can open up career opportunities  in fields such as security analyst, network engineer, and information security
         <br />•        The Master of Cyber ​​Security is a postgraduate study programme focuses on information security and digital technologies. 
@@ -115,7 +117,7 @@ export const questionData = {
             <br />•        CISO/CSO
             <br />•        Forensics Investigator.
             <br />  - This qualification is also heavily influenced by current research and developments that are at the forefront of the respective fields. It lends itself to a career in research and academia. Many of our graduates are expected to progress on to a MPhil/PhD and take on career in research and academia.
-            <br />  -  After completing my Master's degree at a UK university, I will be eligible to work on a post-study work visa, which will allow me to gain international work experience that will help me secure a position at a higher level in MNCs in India such as IBM, Tata Consultancy Services, Reliance Industries, Microsoft, and other well-known companies. After I gained extensive information at this institution, it is more preferred for me to find a decent career in India. I am excited to return to my home country and continue my profession. After getting foreign job experience, I plan to return to my home country, and I feel that because I will have an international degree and experience, I will be able to find good career prospects..
+            <br />  -  After completing my Master's degree at a UK university, I will be eligible to work on a post-study work visa, which will allow me to gain international work experience that will help me secure a position at a higher level in MNCs in India such as IBM, Tata Consultancy Services, Reliance Industries, Microsoft, and other well-known companies. After I gained extensive information at this institution, it is more preferred for me to find a decent career in India. I am excited to return to my home country and continue my profession. After getting foreign job experience, I plan to return to my home country, and I feel that because I will have an international degree and experience, I will be able to find good career prospects. and My annual income will be 40-45 lakhs.
          `
         },
         {
@@ -126,7 +128,7 @@ export const questionData = {
         {
             id: 7,
             question: 'Q7 -  What job will you get once you complete the course? <b> OR </b> Get Job',
-            answer: `There is a large scope of employment in different positions after this course like • International Marketing Manager. • International Product Manager.
+            answer: `There is a large scope of employment in different positions after this course like
             <br />•        Systems Security Specialist
             <br />•        Cyber Security Engineer
             <br />•        System Security Analyst/Architect
@@ -147,7 +149,7 @@ export const questionData = {
         {
             id: 9,
             question: 'Q9 - Have you previously studied any other courses in this subject area? ',
-            answer: 'answer accordingly relate this course with your previous studies ',
+            answer: 'Accordingly relate this course with My previous studies ',
         },
         {
             id: 10,
@@ -157,7 +159,7 @@ export const questionData = {
         },
         {
             id: 11,
-            question: 'Q11 -  What are your reasons for choosing this university compared to other institutions? ,<br/>a.	How did you find out about it? <br/>b.	What are the university’s most attractive features/achievements? <br/>c.	Why are these features/achievements relevant to your choice? <br/>        d.	  Is there anything unique about the university? ',
+            question: 'Q11 - Why Choose this University?<b>Or</b><br/> What are your reasons for choosing this university compared to other institutions? ,<br/>a.	How did you find out about it? <br/>b.	What are the university’s most attractive features/achievements? <br/>c.	Why are these features/achievements relevant to your choice? <br/>        d.	  Is there anything unique about the university? ',
             answer: ` <br />•                  Buckinghamshire New University is ranked amongst the top 10 in graduate employability by the Higher Education Statistics Agency. This means as a student I will be gaining the right skills that any employer will be looking for. BNU has strong links with many industries, and thereby their courses are designed as per the industry norms.
          <br />•                  Class sizes are small and focused where students can interact amongst themselves and with the tutors for a well rounded understanding of the topics.
          <br />•                  BNU enables students to work on live projects from real clients thus getting a proper feel of the corporate environment.
@@ -182,11 +184,11 @@ export const questionData = {
         },
         {
             id: 13,
-            question: 'Q13 - Which other universities did you consider',
+            question: 'Q13 - Which other universities did you consider <b> Or </b> Compare to Other University',
             answer: `I considered a few more universities which include University of Salford,<br />
-        Teesside University, Solent University, and Greenwich University, De Montfort University (DMU) etc All these universities are offering MBA with placement year. The course fee was also very similar.<br />
+        Teesside University, Solent University, and Greenwich University, De Montfort University (DMU) etc All these universities are offering Msc Cybersecurity with placement year. The course fee was also very similar.<br />
         One of the major reasons to finalise BNU was the quick response from the University. The management was quite helpful in guiding me through the entire process and making my admission process hustle free.<br />
-        Secondly, the course structure at BNU seemed to be very impressive. I found some unique modules like Organisational Resilience,Digital Leadership, Managing and Developing Talent etc quite attractive. So, A good and efficient manager or leaders must be able to develop the capabilities of the team members, nurture their careers, and manage the performance of individuals and teams. Simply put, leaders are responsible for developing the talent in an organization. So, I strongly believe that this course will make me a capable leader who can formulate and implement strategies for the growth of organisation and effectively manage challenges in a professional manner.<br />
+        Secondly, the course structure at BNU seemed to be very impressive. I found some unique modules like  Cyber Security Assurance and Risk Management,Cloud Security and AI Based Security Systems Talent etc quite attractive. So, A good and efficient manager or leaders must be able to develop the capabilities of the team members, nurture their careers, and manage the performance of individuals and teams. Simply put, leaders are responsible for developing the talent in an organization. So, I strongly believe that this course will make me a capable leader who can formulate and implement strategies for the growth of organisation and effectively manage challenges in a professional manner.<br />
         Another reason was the location of the university. Like Salford and Teesside are almost 3 hours away from London. It will take 1 and half – 2 hours to reach Solent and DMU from the City of London. Whereas BNU is very close to London but at the same time it is not in Inner London.<br />
         Greenwich is located in Inner London- this means I will have to spend more for my living expenses. Also I found that the student satisfaction rate of Greenwich for business related courses is 82% whereas BNU has 90%. These are the reasons why I chose BNU over the other universities.<br />
         <h5 style= {{backgroundColor : 'yellow'}}>ALTERNATIVE ANSWER</h5>
@@ -284,7 +286,7 @@ export const questionData = {
         },
         {
             id: 19,
-            question: 'Q19 -  How many countries did you research and why UK a better choice?',
+            question: 'Q19 -  How many countries did you research and why UK a better choice? <b> Or </b> Compare to Other Country <br /> <b>Or</b> Why do you wish to study in the UK rather than other countries?',
             answer: ` I researched and compared 3 counties which are USA , UK , CANADA . after a detailed research I found uk more suitable for me to pursue my further studies ans – as per my research studying in USA is costly and it is less safer than UK
         CANADA is good but climate there is so cold which is not suitable for people like us who live in semi tropical climate
             <br /><b>Quality Education: </b>UK universities have a strong reputation for providing high-quality education, particularly in fields such as engineering, finance, and law.
@@ -394,7 +396,7 @@ export const questionData = {
             id: 21,
             question: 'Q21 -  Who is paying/sponsoring  your studies and how? Do you know their salary and where the funds are coming from?',
             answer: ` My father has savings for my education. So, I will be sponsored by my father.
-
+            <br/>His Job Working is diamonds<br  />
         They have a annual income of 30 to 35 lakh and also they are saving for my higher studies for a very long time and they also have mutual funds and property in my name to support my study
         
         OR YOU CAN SAY I have a fixed deposit under my name of 22,00,000 INR i.e.22,000GBP that includes tuition fees and living expenses my fixed deposit can be liqiud at any point of time and there is no loan against my FD`,
@@ -477,14 +479,12 @@ export const questionData = {
         {
             id: 33,
             question: 'Q33 -  What is your course start date?',
-            answer: '24 May 2023 -to 24 May 2024',
+            answer: 'April 2023 -to April 2024',
         },
         {
             id: 34,
             question: 'Q34 -  What is the duration of your course? ',
-            answer: `3 years if you are in bachlors <br />
-
-        1 year if you are in masters`,
+            answer: `3 years if you are in bachlors <br />1 year if you are in masters`,
         },
         {
             id: 35,
@@ -519,7 +519,7 @@ export const questionData = {
         {
             id: 40,
             question: 'Q41. What is your student ID/Reference Number?',
-            answer: '219376',
+            answer: '219761',
         },
         {
             id: 42,
@@ -558,11 +558,7 @@ export const questionData = {
         {
             id: 48,
             question: 'Q48 -  When did you complete your previous studies? And what did you study?',
-            answer: ` tell them about your schooling, your stream/subject in 12th and marks obtained<br />
-
-        If applied for masters tell them also about graduation , from where it is done , marks obtained<br />
-        
-        , along with 12th`,
+            answer: `I completed my Bachelor of Computer Application in March-2021 from Veer Narmad South Gujarat University and secured a 7.02 CGPA.`,
         },
         {
             id: 49,
