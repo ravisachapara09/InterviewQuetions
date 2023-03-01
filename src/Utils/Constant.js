@@ -649,163 +649,183 @@ export const questionData = {
     UEL_Data: [
         {
             id: 1,
-            question: 'Q1 Why you choose UK not any other country or Home Country?',
-            answer: `- There are many reasons to choose UK
-                <br />A.  First of all UK university are widely recognised of the quality education provides and has top ranking as per the different ranking provides such as the guardian  and top university fugue table.</div>
-                <br />B.  The quality of education in UK can be judged by the fact that as per the UK is home to 17 out of 100 university in the world</div>
-                <br />C.  UK universities offers specifically designed are mixtures of both theoretical that practical learning of both theoretical and practical learning regarding market need and majorly helps their students to secure jobs upon completing the study. That’s why most of the universities has above 90% of student success ratio</div>
-                <br />D.  UK’s universities have strong research infrastructure. UK puts across 6.4% global journal articles 11.6% citations and 15.9% of the world’s most high</div>
-                <br />E.  UK’s offer really sophisticated admission and visa process for an international students.</div>
-                <br />F.  In addition, UK had quality assurance agency which is an independent body that access universities and colleges regularly as per the quality of teaching and make sure that students get quality of education.</div>
-                <br />
-                <br />-> The UK is a multicultural country
-                <br />-> As a student, I will get the opportunity to be taught by the world’s leading academics and experts. And last but not least the cost of education for an international student in the UK is generally lower compared to the USA, Australia and other countries
-                <br />
-                <br />1. <b>International students are welcomed</b> The UK has a long history of welcoming international students to study at its universities, and those who decide to study in the UK will be rubbing shoulders with some of the brightest minds from all corners of the globe. You will get the chance to mix, meet and interact with over 200,000 international students from all over the world, learning more about different walks of life in a place of contrasts and culture.
-                <br />2. <b>>High standards of teaching</b> UK universities are inspected regularly by the Quality Assurance Agency for Higher Education to ensure that they maintain the high standards of learning which are expected. As a student you will get the opportunity to be taught by the world’s leading academics and to be creative and develop skills sets and confidence.
-                <br />3. <b>Shorter courses</b> Most undergraduate courses in the UK take three years to complete, and shorter courses means a quicker graduation and less money spent on things such as tuition and living expenses. Two-year degrees are an increasingly popular option, whilst most Two-year degrees last just one year.
-                <br />4. <b>The UK is an interesting place</b> to live With a mix of cosmopolitan cities and countryside villages, the UK is full of historical landmarks, famous music festivals, widely varied cuisine and amazing events to keep you entertained throughout the duration of your studies.
-                <br />
-                <br /> <b> Country comparison</b>
-                <br /> Taking admission to the UK universities is relatively simple and renowned for higher academic standers.
-                <br /><b>USA</b>
-                <br />-> The coast of living and cost of education is very high. Like University of Florida provides masters of computer science with 29000$ tuition fees per yare. It’s a two year course
-                <br />->  So it will be hard for me to pay my tuition fees.
-                <br />->  In UK it takes only 1 year to complete master degree and fee at UEL is only 1500 GBP. So, it will help to reduce overall study cost and accommodation cost also
-                <br /> <b>Why Not India</b>
-                <br />- The Indian education system judge the students on the basis of their academic performance and not on the basis of their overall performance the focus is only on the theory subjects.
-                <br />- The Student program in UK universities are well planned and designed to ensure that students gets the best learning. This system encourages creativity, develop multiple skills, builds confidence and enables students to think critically
-                <br />- Now a days every employs wants people with a grip on English. And there is no better easy for a student to develop linguae skills than to learn them in the country of origin.
-                <br />- This will help me to enhance employment possibilities in India
-                `
+            question: `Q1 - Why have you decided to study in the UK and not in your home country or any other country?`,
+            answer: ` <b> Why UK? </b>
+     <br />->   There are many reasons to choose UK
+     <br />•	The UK is diverse country education from UK is top in the world. UK has world’s highly ranked university such as Oxford University, Cambridge University, and many more. It shows education of UK is best in the world.
+     <br />•	The quality of education in UK can be judged by the fact that as per the QS World University Ranking 2022, the UK is home to 17 of the top 100 universities in the world.  
+     <br />•	A major advantage of studying in UK for students is the flexibility offered by the educational institutions. UK allow students to build their courses by combining subjects they are passionate about. 
+     <br />•	Each university is subjected to regular inspection by the QAA (Quality Assurance Agency) to ensure that the government-set guidelines for learning, research, and teaching are maintained efficiently.
+     <br />•	UK universities have strong research infrastructures.UK puts across 6.4% of global journal articles, 11.6% of citations and 15.9% of the world’s most highly-cited articles.
+     <br />•	The main reason why I Choose UK because UK education system, which is really advanced and mostly based on practical knowledge and guidance. Also It is worldwide recognised.
+     <br /><b>Country comparison</b>
+     <br />•	Taking admission to UK universities is relatively simple and renowned for higher academic standards. 
+     <br /><b>1. USA</b>
+     <br />•	The cost of living and cost of education is very high. Like, University of Florida provide MSc in public health course with 40000$ tuition fee per yr.
+     <br />•	Its two-year course. So, it will be hard for me to pay for my tuition fee.
+     <br />•	In UK it takes only 1 year to complete master degree and fee at UEL is only 14750 GBP.so it will help to reduce overall study cost and accommodation cost also.
+     
+     <br /><b>WHY NOT INDIA</b>
+     <br />•	The Indian education system judge the students on the basis of their academic performance & not on the basis of their overall performance. The focus is only on the theory subjects
+     <br />•	The study programs in UK Universities are well planned and designed to ensure that students get the best learning. This system encourages creativity, develops multiple skills, builds confidence, and enables students to think critically.
+     <br />•	Nowadays, every employer wants people with a grip on English. And there is no better way for a student to develop language skills than to learn them in the country of origin. 
+     <br />•	This will help me to enhance employment possibilities in India.
+     `
         },
         {
             id: 2,
-            question: 'Q7 - Why did you decide not to study in india ? <b>Or </b> Why not India <b>Or </b> Why Not Home Country',
-            answer: `1. - A strong reputation: The UK has a strong reputation for first-class higher education and training and excellent research facilities.
-            <br />2.  <b>  High-quality staff</b>Many UK academics are world leaders in their field and teaching and learning methods are constantly being developed to ensure high-quality teaching and learning environments for students.
-            <br />3.  <b>   Flexible programmes</b>A wide range of flexible full-time, part-time and distance learning courses are available at undergraduate, masters and PhD level.
-            <br />4.  <b>   Great Infrastructure</b>Another reason why studying in the UK is better than in India is the infrastructure or facilities available for students at universities. Most of them have state-of- the-art infrastructure and top notch facilities like computer labs, sports facilities, libraries etc.
-            <br />5.  <b>   Quality Education</b>UK universities have a strong reputation for providing highquality education and research opportunities, particularly in fields such as engineering, finance, and law.
-            <br />6.  <b>   International Exposure</b>Studying in the UK can provide Indian students with exposure to different cultures and perspectives, and help them develop a global outlook.
-            <br />7.  <b>   Career Opportunities</b>UK universities have strong connections with international companies, which can provide Indian students with better career opportunities after graduation.
-            <br />8.  <b>   Language</b>The UK is an English-speaking country, which can help Indian students improve their English language skills and increase their fluency.
-            <br />9.  <b>   Research Opportunities</b>UK universities have cutting-edge research facilities and a strong focus on innovation, which can provide Indian students with opportunities to conduct original research and contribute to new discoveries.
-            <br />10.  <b>Exposure to Different Teaching Styles</b>UK universities often use different teaching styles and methodologies compared to Indian universities, which can provide Indian students with a fresh and diverse learning experience.
-            <br />11.  <b>Historical and Cultural Legacy</b>The UK has a rich cultural and historical heritage, with numerous museums, galleries, and cultural landmarks to explore.
-            <br />12.  <b>Student-Friendly Environment</b>UK universities are known for their welcoming and supportive environments for international students.
-            <br />13.  <b>Access to Financial Aid</b>Indian students may be able to access financial aid and scholarships to help fund their studies in the UK.
-            <br />14.  <b>Global Network</b>Studying in the UK can provide Indian students with a global network of contacts and professional connections that can be valuable throughout their careers.
-            <br />15.  <b>Collaborative Research</b>UK universities have a strong culture of collaboration, both within and between institutions, which can provide Indian students with opportunities to work on interdisciplinary projects and develop new skills.
-            <br />16.  <b>Employer Recognition</b>UK degrees are widely recognized and respected by employers around the world, which can help Indian students stand out in the job market.
-            <br />17.  <b>Diversity</b>The UK is a culturally diverse country with a rich history of immigration, which can provide Indian students with exposure to different communities and cultures.
-            <br />18.  <b>Student Services</b>UK universities offer a wide range of student services, including health and well-being support, counseling, and career advice, to help Indian students feel supported throughout their studies.
-            <br />19.  <b>Cultural and Recreational Activities</b>UK universities have a vibrant student life and offer numerous cultural and recreational activities for students to get involved in outside of their studies.
-            <br />20.  <b>Innovation</b>UK universities are known for their innovative and forward-thinking approach to education and research, which can provide Indian students with opportunities to participate in cutting-edge projects and contribute to new discoveries.
-            <br />21.  <b>Personal Development</b>Studying in the UK can provide Indian students with opportunities to develop new skills, gain independence, and build self-confidence.
-            <br />22.  <b>Quality of Life</b>The UK is known for its high quality of life, with a range of urban and rural environments to choose from, and a vibrant cultural scene.
-            <br />23.  <b>Access to Major Cities</b>The UK is well-connected, with excellent transport links to major cities like London, Edinburgh, and Manchester, which can provide Indian students with access to a wide range of cultural and recreational activities.
-            <br />24.  <b>Global Recognition</b>UK degrees are recognized and respected by employers and academic institutions around the world, which can help Indian students to pursue further study and career opportunities globally.
-            <br />These are some of the reasons why Indian students may choose to study in the UK instead of India.`,
+            question: `Q2 - Why have you chosen to study this course at UEL?`,
+            answer: `•	I have apply Top the MSc Computer science with industrial placement at the university of east London.
+        <br />•	  After completed my graduation. I started working in IT Company. As I have very much interested in technology side of computer activities.
+        <br />•	  I have research about this course and see how Importance of this course in Indian market.
+        <br />•	  This course is appropriate top me because it is not easy to get job in any of the IT companies in India with having normal degree, but after completed my 1 years in MSc Computer science I can be able to apply in any of IT Company in India with having an international degree.
+        <br />•	  So, I want to Study MSc computer science in university of east London
+        <br />•	  The structure of the course gives me the essential knowledge and skills for my future career.
+        <br />•	  Because of some reasons like first of talking about course modules so I will learn five modules throughout the course of University of east London
+        <br />->	  Which are : 
+        <br /> 1)	Advanced Software Engineering
+        <br /> 2)	Big Data Analytics
+        <br /> 3)	Computer Security - optional
+        <br /> 4)	Cloud Computing - optional
+        <br /> 5)	Mental Wealth; Professional Life (Dissertation)
+        <br /> - But three modules are that grab my attention.
+        <br /> <b>1)	Computer security</b>
+        <br /> •    This module aims to provide an understanding at the tools and techniques needed to protest computers, networks and internet sites from unauthorised intrusion.
+        <br /> •    This will involve studding possible security risks and the application of appropriate technical, defensive mechanisms tools to counteract cyber crime
+        <br /> <b>2)	Cloud Computing</b>
+        <br /> •        This module provides me with an overview of the field of cloud computing its enabling technologies, main building blocks and hands-on experience
+        <br /> •    The course will introduce this domain and cover the topics of data censors, visualization, cloud storage and various cloud paradigms.
+        <br /> <b>3)	Mental Wealth; professional Life  </b>
+        <br /> •    Conduct a practical project of a master level quality related to the scope of the selected MSc programme and develop skills appropriate top a senior computing professional.
+        <br /> •    I will consider the ethical, legal, social and professional issues and the dissertation will require appropriate research, analysis design implementation, Quality assurance and project management. 
+        <br /> 
+        <br /> •	Ranking of the UEL is 801 in Qs world ranking.
+        <br /> •	114 by complete university guide ranking 2022.  
+        <br /> •	The UEL is an internationally recognised uk university which currently has 17000 students from 135 countries enrolled.
+        <br /> •	Ranked as best modern university in London by national student survey
+        <br /> •	2nd rank in the UK for teaching quality by times higher education young university ranking.
+        <br /> •	UEL have a fantastic teaching staff, many of them are also leading researchers in their field, as reflected by the research excellence framework.
+        <br /> •	UEL also have a modern, well equipped learning environment with modern lecture theatres & seminar rooms, a 24/7 library & learning centre 7 a multimedia production centre complete with audio & visual labs& studios. 
+        <br /> •	Also provides a campus shop, bookstores, student union facility including a student lounge.
+        `
         },
         {
             id: 3,
-            question: `Q2 What offer UK universities did you research for the course you have applied? What made those options 
-            less attractive than studying the at the UEL?`,
-            answer: `- I have reasearched three universities including University of Birmingham, University of Southampton, University of Bristol. However, after finally the course module provided by each unniversity along with the university fees. I have decided to puruse my post graduation education at the university of east london.
-            <br />-  According to my reasearch I found an unique modules for my course in UEL
-            <br /><b>A-  Computer Security :</b> 
-            <br />-  In this program, other universities are not provided this modules. this module provided the protection of computer systems and information from harm, theft, and unauthorized use. Computer hardware is typically protected by the same means used to protect other valuable or sensitive equipment—namely, serial numbers, doors and locks, and alarms.
-            <br />-  It will create great benefits for my career. I can built on real world project and a wide range of portfolio of relevant expriences after this learning I can work as a research analyst.
-            <br />-  Apart form that University of Southampton tution fees is 29,512, while UEL tution Fees is 14760 GBP and also provides scholership opportunities
-            <br />-  Farthermore, University of Bristol tution fees is 16800 GBP
-            <br />-   Therefore, I discovered that UEL offered a high quality education at an affordable cost esseutialy, I am interested in studying at UEL beacuase of the factors, I discuassed`
-            ,
+            question: `Q3 - What other UK universities did you research for the course you have applied for? What made those options less attractive than studying at the University of East London? `,
+            answer: `•	 When, I short listed Universities to study International MSc Computer science in UK
+
+            <br />->  I have research about three Different university such as – 
+            <br />1)	Bedfordshire University
+            <br />2)	University of Wales Trinity Saint David (UWTSD)
+            <br />3)	Coventry University
+            <br />
+            
+            <br /><b>1)	Bedfordshire University</b>
+            <br />•		This university is located at Luton England and this university has low ranked as per guardian ranking and also the study hour per day is lass as compare universality of east London
+            <br /><b>2)	University of Wales trinity Saint David (UWTSD)</b>
+            <br />•		This university campus is in London but this Course is not available so I am not prefer this university.
+            <br /><b>3)	Coventry University</b>
+            <br />•		In this university the course modules which I personally Interested are not available which are advanced Big Data Analysis, computer security, and mental wealth; professional life.
+            <br />•		Coventry University fee structure is very high compared to UEL
+            <br />
+            <br />•	 Computer security will equip me with master level skills and awareness of the challenges and opportunities within the ever changing computers and technology.
+            <br />•	These high demand in Indian market as well as International market
+            <br />•	University of east London provides all course modules which I personally interested
+            <br />•	 If me talk about the ranking of the university of east London. That the UEL holds 801st ranked as per the world wide and also holds 4.2 starts overall
+            <br />•	As, it was for more affordable and was providing all the facilities that is needed for an international student to study in overseas environment.
+            <br />•	It, also provides facilities like new Morden technology, 24 hours and 7 days library, sport club, student union, accommodation support, health and medical care or may more
+            <br />•	on top of that when I compare the location of university. I found out that university of east London is situated in the heats of ok that is London
+            <br />•	as per my opinion university of east London is satisfied all my need, that’s all reason why I attracted to study at the UEL as compare to other university
+            <br />•	That’s why I selected UEL.
+            
+            `
         },
         {
             id: 4,
-            question: `Q3 In detail, explain how you expect this course you will be studying at UEL to help you succeed with you 5 
-            year plan? <b>OR</b> future plans`,
-            answer: `-	Throughout this course, I will focus on developing solutions to real-world problems related to changing IT infrastructure and growing data volumes, as well as gaining a deep understanding of the underlying models and techniques, equipping me with the practical skills required to become a computer specialist. I will have the opportunity to work in database development, web application development, big data, software consultancy, database design, and development. 
-            <br/>-	There is a shortage of personnel with advanced skills in these emerging and growing fields, and graduates of this programme can progress to work in a multitude of roles and industries. This can be directed technology industry, related banking and financial sector. As a graduate of this programme, you'll have a solid understanding of the main disciplines that fall under these emerging and current areas. The kind of role you could go into includes:
-            <br/>•	Big Data Analyst / Business Intelligence / Business Analyst
-            <br/>•	Senior Software Architect / System Architect
-            <br/>•	IT Project Manager / IT Consultant / IT Programme Manager
-            <br/>•	Software Engineering / System Developer
-            <br/>•	AI Specialist / Robotics
-            <br/>•	IOT Specialist / Smart Device Programmer
-            <br/>•	Cyber Security Specialist / IT Security Consultant
-            <br/>•	IT Infrastructure Manager
-            <br/>•	Cloud Architect
-            <br/>-	This qualification is also heavily influenced by current research and developments that are at the forefront of the respective fields. It lends itself to a career in research and academia. Many of our graduates are expected to progress on to a MPhil/PhD and take on career in research and academia. 
-            <br/>-	After completing my Master's degree at a UK university, I will be eligible to work on a post-study work visa, which will allow me to gain international work experience that will help me secure a position at a higher level in MNCs in India such as IBM, Tata Consultancy Services, Reliance Industries, Microsoft, and other well-known companies. After I gained extensive information at this institution, it is more preferred for me to find a decent career in India. I am excited to return to my home country and continue my profession. After getting foreign job experience, I plan to return to my home country, and I feel that because I will have an international degree and experience, I will be able to find good career prospects. 
+            question: `Q4 - In detail, explain how you expect this course you will be studying at UEL to help you succeed with your 5-year career plan? `,
+            answer: `Throughout my study time I will developer lots of different skills for my future.
+            <br />•	 This course helps me to further develop my knowledge and skills within the cutting-edge areas of computers science. The course has been designed to provide me with a blend of skills related to imaging technologies deployed inn industry and research.
+            <br />•	 The course is thought and delicensed by leading researches who are actively angered in this rapidity changing filed to ensure that I am up to date with the latest Derailments.
+            <br />•	 The flexible nature of the course will enable me to choose from a range of advanced modules that match my career ambitions. These include emerging areas such as big data analytics, artificial Intelligence machine vison, computers security and cloud computing
+            <br />
+            <br />
+            ->	 There are many areas attar this course meaning these are also many different job opportunities after this course such as –
+            <br />•	 Software Developers
+            <br />•	 Web Developers
+            <br />•	 Web Designer
+            <br />•	 Computer Engineer
+            <br />•	 Computer System analysts
+            <br />•	 Information security manager or many more  
+            <br />
+            <br />->	 But, I would like software Developers
+            <br />•	 According to topes, software engineering employment will increase by 22% by 2029 for software specialists.
+            <br />•	 It is expected to increase at the fastest rate of all other professions combined. 
+            <br />•	 I have to also have a deep understanding of various language or technologies, and ensure that I am handle my company’s work and services to the right people.
+            <br />•	 One more thing, software developer play a huge role in the success of a company’s for ant into a global technology company’s market
+            <br />•	 There tope, they are also paid according to the importance of their position and the average salary ranges between 8 t0 10 Lakhs in INR
+            <br />•	 I will learn some more practical skills and team work. Which I could use in my future job and practical life.
+            <br />•	 After, Completion my study, I will plan to return in India. And I will get job as a position at Software Developers
+            <br />•	 I will get Job in many multinational company in India. Such as, Infosys, Wipro, HCL Technologies with the average salary ranges between 8 to 10 lakhs.
+            <br />•	 After some time I Will also ret promotion as a senior position in my home country
+            <br />•	 This all point will success me in my attar 5 years career plan.
             `
-
         },
         {
             id: 5,
-            question: `Q4 How is the course you have applied to study at UEL related to your previous qualification and work 
-            experience?`,
-            answer: `-I did Bachelor of computer application from veer Narmad south Gujarat University in 2021 with first 
-            division with distraction and also I have some work experience in TST Technology for June 2021 to till date. 
-            As a MERN stake developer. 
-            <br/>- As I discussed earlier, I previously learned course related accounting, taxation, entreprenurship, financial 
-            management, human resorce management on a ground level. However, UEL givers me a real wworld 
-            experience in managing projects, are studies and creates a good business plan
-            <br/>- UEL will help me to achieve a goof skill by learning and attending workshops using the specialist software 
-            such as quick book, SAP and ERP
-            <br/>- Overall this course will developed not only my learning skills but also it will provide me a real world 
-            experience in industrial level.
-            <br/>- Apart from that I am make a reports and desertions. Therefore studies maintain a data and analysis of the 
-            data
-            <br/>- I were learnt some found level of accounting, taxation, financial management but UEL will gives me a one 
-            opportunities then I will leaned some advanced level of concepts in Accounting, auditing, taxation anf 
-            research strategies.
-            <br/>- The reason behind selection this course at UEL is to develop experience with the advanced learning 
-            technique in which I am lacking`,
+            question: `Q5 - What is your future-plans? Please explain what your potential     roles, employers, and expected salary is after you graduate? `,
+            answer: `•	 On a completion of my MSc Computer science course I will plan to return my home country India because my family is everything for me
+            <br />•	 After coming back to my home country India, I will be able to find a good Positions such as, Computer engineers, Software Developers, web Developers, Web Designers, Information Security manager, computer system analysts or many more.
+            <br />•	 As India is a developing nation, these are huge Opportunities and bid multinational companies are looking for skilled developers with international experience.
+            <br />•	 Because during my MSc degree I would learn about hardware instalment and software development to troubleshooting and data analysis, having this all knowledge it will help me while doing job.
+            <br />•	 In India, Digital and technology India project is currently running and it will help me to get job in Indian companies like Infosys, Wipro, HTL Technologies and this all companies will give priority to whom who have an international degree.
+            <br />•	 I will be able to find a good job opportunities in India with expected salaries of 10 to 12 lakhs and 10 to 15 % annual increase and that I will be that I am currently making for my master’s studies in international computer science practices in 2 to 3 years.
+            <br />•	 And also for my future : Overall a degree in MSc computer science from reputed university like yours’s  will developing my skills and It will allow me to gain an international experience and contribute this to my country..
+            <br />•	 So, this choosing course will help me to more forward my career to the next level in my home country India.
+            `
         },
         {
             id: 6,
-            question: `Q5  Why choose UEL?`,
-            answer: `- -	After Some Research like University of Wolverhampton, Aston University, Oxford brookes, I finally made my mind with go to UEL
-            <br/>-	Teaching Faculty of UEL experienced and teaching or Methodology are on practical based or case study based.
-            <br/>-	UEL is one of the leading modern universities for research and their focus is on learning by doing helps to their students’ progress to a career.
-            <br/>-	Ranking of the UEL is 801 in as world university ranking 2022
-            <br/>-	The UEL is an internationally recognised UK university which currently her 17000 student from 135 countries enrolled
-            <br/>-	Ranked as the best modern university in London by national student survey 2nd rank in to the UK for teaching quality by times higher education young university ranking
-            <br/>-	UEL have a fantastic teaching staff, many of them are also leading research in their field as reflected by the research excellence framework.
-            <br/>-	114 by complete university guide ranking, 2022
-            <br/>-	Great course and fantastic London location
-            <br/>-	In UK as compared to other university tuition fees is lower than other universities and also provide scholarship opportunities
-            <br/>-	That’s why all the factor considered then I choose UEL.
-            `,
+            question: `Q6 - Living in UK? `,
+            answer: `•	 I will stay at student accommodation at university campus.
+            <br />•	 Because it provides a well-appointed learning environment, including modern lecture halls and seminar rooms. It also offers a 24/7 library, Learning Centre campus store and bookstore, café, garden nursery, and student union facilities.
+            <br />•	 There are two types of accommodation at UEL: premium accommodation and standard accommodation. Premium is expensive compare to standard. Standard accommodation divides in two category western Student hall and Eastern Student hall. 
+            <br />•	 I find student accommodation in the western is cheaper and more convenient. Costs are 150 to 250 £ per week, £636 per month. It is located at the University of East London's Clare and Felix House Docklands Campus, 4-6 University Road, London code NO is E16 2RD.   
+            `
         },
         {
             id: 7,
-            question: `Q6 Why choose this course? <b>Or </b> Module Name? <b>Or </b>  Why MSc Computer Science?`,
-            answer: `-	I choose the MSc Computer Science 
-            <br/>-	There are a Myriad reasons to select this course. This course give me depth knowledge of accounting and business idea. This course is also related my previous study and one more important thing is this course modules for me full knowledge of how to manage module. There are 5 Modules in this Course.
-            <br/>A)	Advanced Software Engineering -30
-            <br/>B)	Big Data Analytics -30
-            <br/>C)	Artificial Intelligence & Machine Vision -30
-            <br/>D)	Mental Wealth; Professional Life (Dissertation) -60
-            <br/><b>Optional Modules</b>
-            <br/>E)	Computer Security -30
-            <br/>F)	Cloud Computing - 30
-            <br/>-	Total Module of 180 
-            <br/>1)	Computer Security
-            <br/>-	This module aims to provide an understanding of the tools and techniques needed to protect computers, networks and internet sites from unauthorised intrusion. This will involve studying possible security risks and the application of appropriate technical, defensive mechanisms/tools to counteract cyber crime.
-            <br/>2)	Cloud Computing
-            <br/>-	This module provides you with an overview of the field of Cloud Computing, its enabling technologies, main building blocks, and hands-on experience. The course will introduce this domain and cover the topics of data centres, virtualisation, cloud storage, and various Cloud paradigms. Motivating factors, benefits, challenges, and service models will be discussed. Modern data centres enable many of the economic and technological benefits of the cloud paradigm; hence, the module describes several concepts behind data centre design and management.
-            <br/>3)	Mental Wealth Professional Life 
-            <br/>-	Conduct a practical project of a Master level quality related to the scope of the selected MSc programme and develop skills appropriate for a senior computing professional. You will consider the ethical, legal, social, and professional issues, and the dissertation will require appropriate research, analysis, design, implementation, quality assurance, evaluation and project management. You will reflect on the success of the strategies that you employed to further develop your reflective skills, self-awareness, 'life style' and self-care approaches and where necessary improve your approaches.
-            <br/>4)	Advance Software Engineering
-            <br/>-	An advanced software engineer uses high-level programming skills and technical expertise to design, execute, and assess software programs. They focus on the organizational structure of the project and typically set the time frame for the program's completion.
-            <br/>5)	Big Data Analytics
-            <br/>-	Big data analytics is the sometimes difficult process of analysing large amounts of data in order to reveal information – such as hidden patterns, correlations, market trends, and consumer preferences – that may assist businesses in making educated business choices. Data analytics tools and procedures, on a large scale, enable companies to analyse data sets and obtain new insights. BI queries provide answers to fundamental questions regarding company operations and performance. An advanced analytics system that uses predictive models, statistical algorithms, and what-if scenarios to analyze complex data sets are called big data analytics.
-            <br/>-	This curriculum will enable me to get a broad understanding of important computer concepts before allowing me to specialize in a field that is relevant to the current work market. Take advantage of opportunities to gain real-world industrial experience working on real-world projects for real-world clients, and learn about current IT practices as well as the structure and demands of the global computer business. This course is built around a set of essential ideas that will engage me with the world, allow me to collaborate with others, push me to think in new ways and give me a supportive atmosphere in which I may grow. Programming, web development, project management, databases, and computer hardware are just a few of the things I will learn about. In the second semester, I will be given the option of choosing and specializing in one of several related topics.
-`,
+            question: `Q7 - Please explain your last qualification, what you have been doing since graduating and why you would like to study the course you have applied for now?`,
+            answer: `•	 I did Bachelor of computer application from veer Narmad south Gujarat University in 2021 with first division with distraction and also I have some work experience in TST Technology for June 2021 to till date. As a MERN stake developer. 
+            <br />•	 My decision to study abroad rather than in India is based on the fact that I will not be able to directly enter the workforce after receiving a bachelor's degree in computer science from any of India's reputable institutions; at Indian institutions, hardly any practical working opportunity is offered during the course that could help an individual acquire workplace relevant working skills. As a result, obtaining a bachelor's degree is useless in terms of gaining practical experience. Furthermore, a lot of criteria influence admission to Indian universities (caste-based reservations, for example), making it extremely difficult to gain admission to a reputable college or university. In light of these considerations, I chose to continue my education abroad.
+            <br />•	 As I discussed earlier, I previously learned course related Software Developing, web application development and web design on a ground level. However, UEL gives me a real world experience in software developing, are studies and creates a good Data Structure
+            <br />•	 UEL will help me to achieve a good skill by learning and attending comparable Technology using specialist software such as New Technology
+            <br />•	 Overall this course will developed not only my learning skills but also it will provide me a real world experience in Technology level.
+            <br />•	 I were learnt some found level of Technology knowledge, Data Analysis, Software Developing but UEL will gives me a one opportunities then I will leaned some advanced level of concepts in Big Data Analysis, Advance Software Developing. 
+            <br />•	 The reason behind selection this course at UEL is to develop experience with the advanced learning technique in which I am lacking.
+            `
         },
-
+        {
+            id: 8,
+            question: `Q8 - . How is the course you have applied to study at UEL related to your previous qualifications and/or work experience?`,
+            answer: `•	 Throughout my previous study in bachelor o computer application and I join MSc Computer Science Because I want to expand my knowledge in this field and explore my career opportunities. This are the reason behind choosing this course.
+            <br />•	 After completed of my graduation I have gap 0f 1.5 year, but during this period started working as MERN stack developer.
+            <br />•	 In this work experience I joined the knowledge of create successful programs and application, problem-solving. Write source code and many more skills
+            <br />
+            <br />->	 In this work my job responsibilities are – 
+            <br />•	 1)	Work with developers to design algorithms and flowcharts
+            <br />•	 2)	Product clean efficient code based on specifications
+            <br />•	 3)	Integrate software component and third party programs
+            <br />•	 4)	Deploy program and system
+            <br />•	 5)	Troubleshoot, debug and upgrade existing software
+            <br />
+            <br />•	 And, also the software Developers overall role is hop closely with clients to determine what they need, then use programming language like JavaScript (Java or C++) to create programs
+            <br />•	 Now I selected this course because after completing my graduation I had applied for a job in TST Technology Company
+            <br />•	 And, with the help of my strong academic background and my knowledge I has selected as a MURN stack Developers in That Company
+            <br />•	 As, After serving for 1.5 years in that role I fell that something has missing in my knowledge to dominate the IT Industry.
+            <br />•	 And, to till that role of Knowledge
+            <br />•	 So, Now I want to deep and more knowledge and skills in IT filed by this course
+            <br />•	 So, I decided to pursue my master in this course on in this university
+            `
+        },
     ]
 }

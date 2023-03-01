@@ -11,7 +11,7 @@ import { questionData } from '../Utils/Constant';
 
 const QuetionsBNU = () => {
     const [open, setOpen] = useState('');
-    const [selectedUniversity, setSelectedUniversity] = useState('BNU_Data')
+    const [selectedUniversity, setSelectedUniversity] = useState('UEL_Data')
     const [searchValue, setSearchValue] = useState('')
     const toggle = (id) => {
         if (open === id) {
