@@ -45,6 +45,7 @@ const QuetionsBNU = () => {
                         </select>
                     </div>
                 </div>
+                <p><b>Passport</b>No : W0690587, Ex Date : 09/08/2032 , <b>Student Reference</b>2438021 , <b>Course Duration</b>24 May 2023 to 24 May 2024 , <b>Fee</b>14760 (2000 Scho) </p>
                 <div>
                     <Accordion flush open={open} toggle={toggle}>
                         {
