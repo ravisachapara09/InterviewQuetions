@@ -827,5 +827,58 @@ export const questionData = {
             <br />•	 So, I decided to pursue my master in this course on in this university
             `
         },
+        {
+            id: 9,
+            question: `Q9 - Beautiful Places? - Himaliya`,
+            answer: `The Himalayas are one of the most beautiful places on earth and my favorite place. As the highest mountain range in the world, the Himalayas attract millions of tourists each year. The Himalayas, located in Asia, span the following six countries.
+            <br />India, Pakistan, Nepal, Bhutan, China, Afghanistan. This mountain range is known for its breathtaking beauty, rich culture and adventurous activities.
+            
+            <br />The Himalayas offer an unparalleled opportunity to experience nature at its harshest. Majestic snow-capped mountains, glaciers, and high-altitude lakes offer awe-inspiring views. The fresh mountain air, the sound of the wind blowing through the trees, and the breathtaking sunrises and sunsets bring you closer to nature than ever before.
+            
+            <br />The Himalayas are more than just a feast for the eyes. They also have a rich cultural heritage. The area has several indigenous communities that have lived in the mountains for centuries. These communities have their own traditions, languages ​​and lifestyles worth exploring. Local cuisine blended with local spices and herbs is also exceptional.
+            
+            <br />One of the most exciting things he does in the Himalayas is the adventure sports he is addicted to. From trekking to climbing, skiing to paragliding, there is something for everyone. The thrill of adventure, the adrenaline rush, and the sense of accomplishment after challenging hikes and summits will stay with you for the rest of your life.
+            
+            <br />In summary, the Himalayas are a paradise on earth and my favorite place. Natural beauty, rich culture and opportunities for adventure make it an ideal destination for those seeking an unforgettable experience. Think about the Himalayas the next time you plan your trip. do not regret.`
+        },
+        {
+            id:11,
+            question : `11 - Favorite Color - Saffron`,
+            answer:`<br />I would like to talk about my favorite color, saffron. Saffron is a warm, vibrant color that has always held a special place in my heart.It symbolizes strength, courage, spirituality and many other things.
+
+            <br />Saffron is a color that has been used in many cultures and religions for centuries. In Hinduism, it is considered a sacred color and is used in religious ceremonies and ceremonies. In Buddhism, saffron is the color of the robes worn by monks and represents the simplicity and purity of their way of life. In many cultures, saffron was often used in expensive fabrics and clothing, so it is also associated with royalty and nobility.
+            
+            <br />To me, saffron represents strength and courage. It is a color that inspires confidence and determination. Seeing the color of saffron gives me the strength and motivation to try new things. It reminds us to be strong in the face of adversity and never give up on our dreams.
+            
+            <br />Saffron is also the color of spirituality. It is a color associated with the sun, which is a symbol of life and vitality. The color saffron is said to balance our body's energy centers and promote spiritual growth and healing.
+            
+            <br />In addition to its symbolic meaning, saffron also has beautiful colors. Warm and welcoming, it can add a touch of elegance and sophistication to any space. Whether in fashion, interiors or art, saffron is a color that never goes out of style.
+            
+            <br />In summary, saffron is a color that holds a special place in my heart.It represents strength, courage, spirituality and inspires me to be the best version of myself. Whether you love saffron for its beauty or not, it's a color that can bring joy and positivity into your life. Thank you for listening`
+        },
+        {
+            id:12,
+            question : `12 - Favorite Food - Dhosa`,
+            answer:`Dosa is a traditional Indian dish that is gaining popularity around the world, and for good reason. This delicious and nutritious food has many health benefits that make it a favorite among health enthusiasts.
+
+            <br />One of the main advantages of dosa is its high protein content. Dosas are made from a combination of rice and lentils, which are excellent sources of protein. Protein is important not only for building and repairing tissues in the body, but also for supporting immune function and maintaining healthy skin and hair.
+            
+            <br />Another important advantage of dosa is its high fiber content. The lentils and rice used to make dosa are both excellent sources of fiber, which help regulate digestion and prevent constipation.Fiber also promotes satiety and reduces overeating. , supports healthy weight management.
+            
+            <br />Dosa is also rich in vitamins and minerals such as B vitamins, iron and calcium. B vitamins are important for energy production and brain function, iron is essential for carrying oxygen throughout the body, and calcium is essential for maintaining healthy bones and teeth. In addition to its nutritional benefits, dosa is also a low-fat, low-calorie food. This makes it ideal for those looking to reduce their calorie intake and maintain a healthy weight.Dosa is a versatile and versatile ingredient that can be enjoyed as a main meal or as a snack.
+            
+            <br />Overall, dosa is an excellent healthy food that offers many benefits to the body. High in protein and fiber content and packed with vitamins and minerals, dosa is a delicious and nutritious addition to any meal. So if you're looking to incorporate some healthy and delicious food into your diet, try dosas!`
+        },
+        {
+            id:13,
+            question : `13 - Favorite Book -  How to Make Friends and Influence People`,
+            answer:`"How to Make Friends and Influence People" is a timeless classic written by Dale Carnegie. His one of my favorite books on public speaking and interpersonal communication.
+
+            <br />The book is divided into his four parts, each with its own principles. The first part deals with basic techniques for interacting with people, such as the importance of smiling and the power of gratitude. The second part focuses on how to get people to like you, including the importance of genuinely caring and actively listening to others. The third part is about how you can convince people of your point of view using principles such as avoiding arguments and respecting the opinions of others. Finally, Part 4 deals with leadership. There are such principles as inspiring others and showing honor where honor is.
+            
+           <br /> One of the main reasons I like this book is its practicality. The principles are easy to understand, applicable to everyday life, and can have a profound impact on how you communicate and relate to others. For example, one principle that sticks with me is the importance of using a person's name when speaking to them. This simple technique makes the other person feel valued and respected and helps build a stronger connection.
+            
+            <br />Another reason I love this book is the emphasis on empathy and understanding. The principle is not just manipulating others to get what you want, but genuinely caring about others and trying to understand their point of view. This is an important aspect of communicating effectively and building strong relationships.`
+        },
     ]
 }
