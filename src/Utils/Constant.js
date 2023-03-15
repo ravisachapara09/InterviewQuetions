@@ -673,8 +673,8 @@ export const questionData = {
      `
         },
         {
-            id: 2,
-            question: `Q2 - Why have you chosen to study this course at UEL?`,
+            id: 3,
+            question: `Q3 -What course did you apply to study and <b>why have you chosen to study this course at UEL</b>?`,
             answer: `•	I have apply Top the MSc Computer science with industrial placement at the university of east London.
         <br />•	  After completed my graduation. I started working in IT Company. As I have very much interested in technology side of computer activities.
         <br />•	  I have research about this course and see how Importance of this course in Indian market.
@@ -710,8 +710,8 @@ export const questionData = {
         `
         },
         {
-            id: 3,
-            question: `Q3 - What other UK universities did you research for the course you have applied for? What made those options less attractive than studying at the University of East London? `,
+            id: 4,
+            question: `Q4 - What other UK universities did you research for the course you have applied for? What made those options less attractive than studying at the University of East London? `,
             answer: `•	 When, I short listed Universities to study International MSc Computer science in UK
 
             <br />->  I have research about three Different university such as – 
@@ -741,8 +741,8 @@ export const questionData = {
             `
         },
         {
-            id: 4,
-            question: `Q4 - In detail, explain how you expect this course you will be studying at UEL to help you succeed with your 5-year career plan? `,
+            id: 5,
+            question: `Q5 - In detail, explain how you expect this course you will be studying at UEL to help you succeed with your 5-year career plan? `,
             answer: `Throughout my study time I will developer lots of different skills for my future.
             <br />•	 This course helps me to further develop my knowledge and skills within the cutting-edge areas of computers science. The course has been designed to provide me with a blend of skills related to imaging technologies deployed inn industry and research.
             <br />•	 The course is thought and delicensed by leading researches who are actively angered in this rapidity changing filed to ensure that I am up to date with the latest Derailments.
@@ -771,10 +771,18 @@ export const questionData = {
             `
         },
         {
-            id: 5,
-            question: `Q5 - What is your future-plans? Please explain what your potential     roles, employers, and expected salary is after you graduate? `,
+            id: 6,
+            question: `Q6 - What is your future-plans? Please explain what your potential     roles, employers, and expected salary is after you graduate? `,
             answer: `•	 On a completion of my MSc Computer science course I will plan to return my home country India because my family is everything for me
-            <br />•	 After coming back to my home country India, I will be able to find a good Positions such as, Computer engineers, Software Developers, web Developers, Web Designers, Information Security manager, computer system analysts or many more.
+            <br />•	 After coming back to my home country India, I will be able to find a good Positions such as - 
+            <br />- Software Engineer/Developer
+            <br />- Data Scientist
+            <br />- Cybersecurity Analyst
+            <br />- Network Administrator
+            <br />- Artificial Intelligence/Machine Learning Engineer
+            <br />- Database Administrator
+            <br />- Web Developer
+            <br />- Mobile Application Developer or Many More
             <br />•	 As India is a developing nation, these are huge Opportunities and bid multinational companies are looking for skilled developers with international experience.
             <br />•	 Because during my MSc degree I would learn about hardware instalment and software development to troubleshooting and data analysis, having this all knowledge it will help me while doing job.
             <br />•	 In India, Digital and technology India project is currently running and it will help me to get job in Indian companies like Infosys, Wipro, HTL Technologies and this all companies will give priority to whom who have an international degree.
@@ -784,8 +792,8 @@ export const questionData = {
             `
         },
         {
-            id: 6,
-            question: `Q6 - Living in UK? `,
+            id: 7,
+            question: `Q7 - Living in UK? <b>OR</b> Accomodation`,
             answer: `•	 I will stay at student accommodation at university campus.
             <br />•	 Because it provides a well-appointed learning environment, including modern lecture halls and seminar rooms. It also offers a 24/7 library, Learning Centre campus store and bookstore, café, garden nursery, and student union facilities.
             <br />•	 There are two types of accommodation at UEL: premium accommodation and standard accommodation. Premium is expensive compare to standard. Standard accommodation divides in two category western Student hall and Eastern Student hall. 
@@ -793,8 +801,8 @@ export const questionData = {
             `
         },
         {
-            id: 7,
-            question: `Q7 - Please explain your last qualification, what you have been doing since graduating and why you would like to study the course you have applied for now?`,
+            id: 8,
+            question: `Q8 - Please explain your last qualification, what you have been doing since graduating and why you would like to study the course you have applied for now?`,
             answer: `•	 I did Bachelor of computer application from veer Narmad south Gujarat University in 2021 with first division with distraction and also I have some work experience in TST Technology for June 2021 to till date. As a MERN stake developer. 
             <br />•	 My decision to study abroad rather than in India is based on the fact that I will not be able to directly enter the workforce after receiving a bachelor's degree in computer science from any of India's reputable institutions; at Indian institutions, hardly any practical working opportunity is offered during the course that could help an individual acquire workplace relevant working skills. As a result, obtaining a bachelor's degree is useless in terms of gaining practical experience. Furthermore, a lot of criteria influence admission to Indian universities (caste-based reservations, for example), making it extremely difficult to gain admission to a reputable college or university. In light of these considerations, I chose to continue my education abroad.
             <br />•	 As I discussed earlier, I previously learned course related Software Developing, web application development and web design on a ground level. However, UEL gives me a real world experience in software developing, are studies and creates a good Data Structure
@@ -805,8 +813,8 @@ export const questionData = {
             `
         },
         {
-            id: 8,
-            question: `Q8 - . How is the course you have applied to study at UEL related to your previous qualifications and/or work experience?`,
+            id: 9,
+            question: `Q9 - . How is the course you have applied to study at UEL related to your previous qualifications and/or work experience?`,
             answer: `•	 Throughout my previous study in bachelor o computer application and I join MSc Computer Science Because I want to expand my knowledge in this field and explore my career opportunities. This are the reason behind choosing this course.
             <br />•	 After completed of my graduation I have gap 0f 1.5 year, but during this period started working as MERN stack developer.
             <br />•	 In this work experience I joined the knowledge of create successful programs and application, problem-solving. Write source code and many more skills
@@ -828,8 +836,8 @@ export const questionData = {
             `
         },
         {
-            id: 9,
-            question: `Q9 - Beautiful Places? - Himaliya`,
+            id: 10,
+            question: `Q10 - Beautiful Places? - Himalayas`,
             answer: `The Himalayas are one of the most beautiful places on earth and my favorite place. As the highest mountain range in the world, the Himalayas attract millions of tourists each year. The Himalayas, located in Asia, span the following six countries.
             <br />India, Pakistan, Nepal, Bhutan, China, Afghanistan. This mountain range is known for its breathtaking beauty, rich culture and adventurous activities.
             
