@@ -652,7 +652,7 @@ export const questionData = {
             question: `Q1 - Why have you decided to study in the UK and not in your home country or any other country? <b> OR </b> Why UK? <b> OR </b>Country comparison <b> OR </b> WHY NOT INDIA `,
             answer: ` <b> Why UK? </b>
      <br />->   There are many reasons to choose UK
-     <br />•	The UK is diverse country education from UK is top in the world. UK has world’s highly ranked university such as Oxford University, Cambridge University, and many more. It shows education of UK is best in the world.
+     <br />•	Firstly, The UK is diverse country education in the UK is top in the world. the UK has a much better academic and educational system than countries like Canada and Australia. The UK has the world’s highest-ranked universities such as Oxford University, Cambridge University, and many more. It shows the education in UK is best in the world.
      <br />•	The quality of education in UK can be judged by the fact that as per the QS World University Ranking 2022, the UK is home to 17 of the top 100 universities in the world.  
      <br />•	A major advantage of studying in UK for students is the flexibility offered by the educational institutions. UK allow students to build their courses by combining subjects they are passionate about. 
      <br />•	Each university is subjected to regular inspection by the QAA (Quality Assurance Agency) to ensure that the government-set guidelines for learning, research, and teaching are maintained efficiently.
@@ -675,9 +675,9 @@ export const questionData = {
      `
         },
         {
-            id: 3,
-            question: `Q3 -What course did you apply to study and <b>why have you chosen to study this course at UEL</b> <b> OR </b> Module Name?`,
-            answer: `•	I have apply Top the MSc Computer science at the university of east London.
+            id: 2,
+            question: `Q2 -What course did you apply to study and <b>why have you chosen to study this course at UEL</b> <b> OR </b> Module Name?`,
+            answer: `•	I have applied Top the MSc in Computer science at the university of east London. Because this course is relevant to my previous studies.
         <br />•	  After completed my graduation. I started working in IT Company. As I have very much interested in technology side of computer activities.
         <br />•	  I have research about this course and see how Importance of this course in Indian market.
         <br />•	  This course is appropriate top me because it is not easy to get job in any of the IT companies in India with having normal degree, but after completed my 1 years in MSc Computer science I can be able to apply in any of IT Company in India with having an international degree.
@@ -703,7 +703,7 @@ export const questionData = {
         <br /> 
         <br /> •	Ranking of the UEL is 801 in Qs world ranking.
         <br /> •	114 by complete university guide ranking 2022.  
-        <br /> •	The UEL is an internationally recognised uk university which currently has 17000 students from 135 countries enrolled.
+        <br /> •	As per resech I found that uel is an internationally recognised uk university which currently has around 17000 students from 135 countries. enrolled.        
         <br /> •	Ranked as best modern university in London by national student survey
         <br /> •	2nd rank in the UK for teaching quality by times higher education young university ranking.
         <br /> •	UEL have a fantastic teaching staff, many of them are also leading researchers in their field, as reflected by the research excellence framework.
@@ -712,14 +712,14 @@ export const questionData = {
         `
         },
         {
-            id: 4,
-            question: `Q4 - What other UK universities did you research for the course you have applied for? What made those options less attractive than studying at the University of East London?  <b> OR </b> Other University`,
+            id: 3,
+            question: `Q3 - What other UK universities did you research for the course you have applied for? What made those options less attractive than studying at the University of East London?  <b> OR </b> Other University`,
             answer: `•	 When, I short listed Universities to study International MSc Computer science in UK
 
-            <br />->  I have research about three Different university such as – 
+            <br />->  I have researched other universities like  – 
             <br />1)	Bedfordshire University
-            <br />2)	University of Wales Trinity Saint David (UWTSD)
-            <br />3)	Coventry University
+            <br />2)	Coventry University
+            <br />3)	Optional - University of Wales Trinity Saint David (UWTSD)
             <br />
             
             <br /><b>1)	Bedfordshire University</b>
@@ -727,11 +727,16 @@ export const questionData = {
             <br /><b>2)	University of Wales trinity Saint David (UWTSD)</b>
             <br />•		This university campus is in London but this Course is not available so I am not prefer this university.
             <br /><b>3)	Coventry University</b>
-            <br />•		In this university the course modules which I personally Interested are not available which are advanced Big Data Analysis, computer security, and mental wealth; professional life.
-            <br />•		Coventry University fee structure is very high compared to UEL
+            <br />•		601 rank is guardian university ranking 2022. So obviously the education value of Coventry is higher than UEL.
+            <br />•		In this university the course modules which I personally Interested are not available
+            <br />-		There are some unique modules in UEL like
+            <br />1)    <b>Computer Security</b>
+            <br />      Computer security, also called cybersecurity, is the protection of computer systems and information from harm, theft, and unauthorized use. Computer  is typically protected by the same means used to protect other valuable or sensitive equipment—namely, serial numbers,doors and locks, and alarms.
+            <br />These modules will be very much use full in future because of nowadays security related issues like
+            hacking and other problems which is increasing significantly.
+            <br />2)    <b>Mental Wealth; Professional Life</b>
+            <br/>Mental health includes emotional, psychological and social wellbeing, affecting our thoughts,feelings and behaviours. We want to use the term Mental-Wealth, as this allows us to focus on positive strategies and the things that we learn about ourselves to help us maintain our Mental Wellbeing.
             <br />
-            <br />•	 Computer security will equip me with master level skills and awareness of the challenges and opportunities within the ever changing computers and technology.
-            <br />•	These high demand in Indian market as well as International market
             <br />•	University of east London provides all course modules which I personally interested
             <br />•	 If me talk about the ranking of the university of east London. That the UEL holds 801st ranked as per the world wide and also holds 4.2 starts overall
             <br />•	As, it was for more affordable and was providing all the facilities that is needed for an international student to study in overseas environment.
@@ -743,10 +748,10 @@ export const questionData = {
             `
         },
         {
-            id: 5,
-            question: `Q5 - In detail, explain how you expect this course you will be studying at UEL to help you succeed with your 5-year career plan? `,
+            id: 4,
+            question: `Q4 - In detail, explain how you expect this course you will be studying at UEL to help you succeed with your 5-year career plan? `,
             answer: `Throughout my study time I will developer lots of different skills for my future.
-            <br />•	 This course helps me to further develop my knowledge and skills within the cutting-edge areas of computers science. The course has been designed to provide me with a blend of skills related to imaging technologies deployed inn industry and research.
+            <br />•	 This course helps me to further develop my knowledge and skills within the cutting-edge areas of computers science. The course has been designed to provide me with a blend of skills related to imaging technologies deployed industry and research.
             <br />•	 The course is thought and delicensed by leading researches who are actively angered in this rapidity changing filed to ensure that I am up to date with the latest Derailments.
             <br />•	 The flexible nature of the course will enable me to choose from a range of advanced modules that match my career ambitions. These include emerging areas such as big data analytics, artificial Intelligence machine vison, computers security and cloud computing
             <br />
@@ -773,8 +778,8 @@ export const questionData = {
             `
         },
         {
-            id: 6,
-            question: `Q6 - What is your future-plans? Please explain what your potential     roles, employers, and expected salary is after you graduate? `,
+            id: 5,
+            question: `Q5 - What is your future-plans? Please explain what your potential     roles, employers, and expected salary is after you graduate? `,
             answer: `•	 On a completion of my MSc Computer science course I will plan to return my home country India because my family is everything for me
             <br />•	 After coming back to my home country India, I will be able to find a good Positions such as - 
             <br />- Software Engineer/Developer
@@ -794,8 +799,8 @@ export const questionData = {
             `
         },
         {
-            id: 7,
-            question: `Q7 - Living in UK? <b>OR</b> Accomodation`,
+            id: 6,
+            question: `Q6 - Living in UK? <b>OR</b> Accomodation`,
             answer: `•	 I will stay at student accommodation at university campus.
             <br />•	 Because it provides a well-appointed learning environment, including modern lecture halls and seminar rooms. It also offers a 24/7 library, Learning Centre campus store and bookstore, café, garden nursery, and student union facilities.
             <br />•	 There are two types of accommodation at UEL: premium accommodation and standard accommodation. Premium is expensive compare to standard. Standard accommodation divides in two category western Student hall and Eastern Student hall. 
@@ -803,9 +808,9 @@ export const questionData = {
             `
         },
         {
-            id: 8,
-            question: `Q8 - Please explain your last qualification, what you have been doing since graduating and why you would like to study the course you have applied for now?`,
-            answer: `•	 I did Bachelor of computer application from veer Narmad south Gujarat University in 2021 with first division with distraction and also I have some work experience in TST Technology for June 2021 to till date. As a MERN stake developer. 
+            id: 7,
+            question: `Q7 - Please explain your last qualification, what you have been doing since graduating and why you would like to study the course you have applied for now?`,
+            answer: `•	 I did Bachelor of computer application from veer Narmad south Gujarat University in June 2021 with first Class with distraction and also I have some work experience in TST Technology for June 2021 to till date. As a MERN stake developer. 
             <br />•	 My decision to study abroad rather than in India is based on the fact that I will not be able to directly enter the workforce after receiving a bachelor's degree in computer science from any of India's reputable institutions; at Indian institutions, hardly any practical working opportunity is offered during the course that could help an individual acquire workplace relevant working skills. As a result, obtaining a bachelor's degree is useless in terms of gaining practical experience. Furthermore, a lot of criteria influence admission to Indian universities (caste-based reservations, for example), making it extremely difficult to gain admission to a reputable college or university. In light of these considerations, I chose to continue my education abroad.
             <br />•	 As I discussed earlier, I previously learned course related Software Developing, web application development and web design on a ground level. However, UEL gives me a real world experience in software developing, are studies and creates a good Data Structure
             <br />•	 UEL will help me to achieve a good skill by learning and attending comparable Technology using specialist software such as New Technology
@@ -815,8 +820,8 @@ export const questionData = {
             `
         },
         {
-            id: 9,
-            question: `Q9 - . How is the course you have applied to study at UEL related to your previous qualifications and/or work experience?`,
+            id: 8,
+            question: `Q8 - . How is the course you have applied to study at UEL related to your previous qualifications and/or work experience?`,
             answer: `•	 Throughout my previous study in bachelor o computer application and I join MSc Computer Science Because I want to expand my knowledge in this field and explore my career opportunities. This are the reason behind choosing this course.
             <br />•	 After completed of my graduation I have gap 0f 1.5 year, but during this period started working as MERN stack developer.
             <br />•	 In this work experience I joined the knowledge of create successful programs and application, problem-solving. Write source code and many more skills
@@ -852,9 +857,9 @@ export const questionData = {
             <br />In summary, the Himalayas are a paradise on earth and my favorite place. Natural beauty, rich culture and opportunities for adventure make it an ideal destination for those seeking an unforgettable experience. Think about the Himalayas the next time you plan your trip. do not regret.`
         },
         {
-            id:11,
-            question : `11 - Favorite Color - Saffron`,
-            answer:`<br />I would like to talk about my favorite color, saffron. Saffron is a warm, vibrant color that has always held a special place in my heart.It symbolizes strength, courage, spirituality and many other things.
+            id: 11,
+            question: `11 - Favorite Color - Saffron`,
+            answer: `<br />I would like to talk about my favorite color, saffron. Saffron is a warm, vibrant color that has always held a special place in my heart.It symbolizes strength, courage, spirituality and many other things.
 
             <br />Saffron is a color that has been used in many cultures and religions for centuries. In Hinduism, it is considered a sacred color and is used in religious ceremonies and ceremonies. In Buddhism, saffron is the color of the robes worn by monks and represents the simplicity and purity of their way of life. In many cultures, saffron was often used in expensive fabrics and clothing, so it is also associated with royalty and nobility.
             
@@ -867,9 +872,9 @@ export const questionData = {
             <br />In summary, saffron is a color that holds a special place in my heart.It represents strength, courage, spirituality and inspires me to be the best version of myself. Whether you love saffron for its beauty or not, it's a color that can bring joy and positivity into your life. Thank you for listening`
         },
         {
-            id:12,
-            question : `12 - Favorite Food - Dhosa`,
-            answer:`Dosa is a traditional Indian dish that is gaining popularity around the world, and for good reason. This delicious and nutritious food has many health benefits that make it a favorite among health enthusiasts.
+            id: 12,
+            question: `12 - Favorite Food - Dhosa`,
+            answer: `Dosa is a traditional Indian dish that is gaining popularity around the world, and for good reason. This delicious and nutritious food has many health benefits that make it a favorite among health enthusiasts.
 
             <br />One of the main advantages of dosa is its high protein content. Dosas are made from a combination of rice and lentils, which are excellent sources of protein. Protein is important not only for building and repairing tissues in the body, but also for supporting immune function and maintaining healthy skin and hair.
             
@@ -880,9 +885,9 @@ export const questionData = {
             <br />Overall, dosa is an excellent healthy food that offers many benefits to the body. High in protein and fiber content and packed with vitamins and minerals, dosa is a delicious and nutritious addition to any meal. So if you're looking to incorporate some healthy and delicious food into your diet, try dosas!`
         },
         {
-            id:13,
-            question : `13 - Favorite Book -  How to Make Friends and Influence People`,
-            answer:`"How to Make Friends and Influence People" is a timeless classic written by Dale Carnegie. His one of my favorite books on public speaking and interpersonal communication.
+            id: 13,
+            question: `13 - Favorite Book -  How to Make Friends and Influence People`,
+            answer: `"How to Make Friends and Influence People" is a timeless classic written by Dale Carnegie. His one of my favorite books on public speaking and interpersonal communication.
 
             <br />The book is divided into his four parts, each with its own principles. The first part deals with basic techniques for interacting with people, such as the importance of smiling and the power of gratitude. The second part focuses on how to get people to like you, including the importance of genuinely caring and actively listening to others. The third part is about how you can convince people of your point of view using principles such as avoiding arguments and respecting the opinions of others. Finally, Part 4 deals with leadership. There are such principles as inspiring others and showing honor where honor is.
             
@@ -891,9 +896,9 @@ export const questionData = {
             <br />Another reason I love this book is the emphasis on empathy and understanding. The principle is not just manipulating others to get what you want, but genuinely caring about others and trying to understand their point of view. This is an important aspect of communicating effectively and building strong relationships.`
         },
         {
-            id:14,
-            question:`Q14 - Favorite Flower - Rose`,
-            answer:`Beauty: Roses are known for their stunning beauty and come in a variety of colors, shapes, and sizes. They are often used in floral arrangements, gardens, and as a symbol of love and romance.
+            id: 14,
+            question: `Q14 - Favorite Flower - Rose`,
+            answer: `Beauty: Roses are known for their stunning beauty and come in a variety of colors, shapes, and sizes. They are often used in floral arrangements, gardens, and as a symbol of love and romance.
 
             <br />Fragrance: Many varieties of roses have a delightful scent, which can be enjoyed both in the garden and in the home.
             
