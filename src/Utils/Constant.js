@@ -649,7 +649,7 @@ export const questionData = {
     UEL_Data: [
         {
             id: 1,
-            question: `Q1 - Why have you decided to study in the UK and not in your home country or any other country?`,
+            question: `Q1 - Why have you decided to study in the UK and not in your home country or any other country? <b> OR </b> Why UK? <b> OR </b>Country comparison <b> OR </b> WHY NOT INDIA `,
             answer: ` <b> Why UK? </b>
      <br />->   There are many reasons to choose UK
      <br />•	The UK is diverse country education from UK is top in the world. UK has world’s highly ranked university such as Oxford University, Cambridge University, and many more. It shows education of UK is best in the world.
@@ -661,10 +661,12 @@ export const questionData = {
      <br /><b>Country comparison</b>
      <br />•	Taking admission to UK universities is relatively simple and renowned for higher academic standards. 
      <br /><b>1. USA</b>
-     <br />•	The cost of living and cost of education is very high. Like, University of Florida provide MSc in public health course with 40000$ tuition fee per yr.
+     <br />•	The cost of living and cost of education is very high. Like, University of Florida provide MSc in Computer Science course with 56,169$ tuition fee per yr.
      <br />•	Its two-year course. So, it will be hard for me to pay for my tuition fee.
      <br />•	In UK it takes only 1 year to complete master degree and fee at UEL is only 14750 GBP.so it will help to reduce overall study cost and accommodation cost also.
-     
+     <br /><b>2. CANADA</b>
+     <br />•	The cost of living and Fee Structure education is Same. and 2 year course. Like University of Alberta
+     <br />•	But UK CANADA is good but climate there is so cold which is not suitable for people like us who live in semi tropical climate so I am not preferred canada
      <br /><b>WHY NOT INDIA</b>
      <br />•	The Indian education system judge the students on the basis of their academic performance & not on the basis of their overall performance. The focus is only on the theory subjects
      <br />•	The study programs in UK Universities are well planned and designed to ensure that students get the best learning. This system encourages creativity, develops multiple skills, builds confidence, and enables students to think critically.
@@ -674,8 +676,8 @@ export const questionData = {
         },
         {
             id: 3,
-            question: `Q3 -What course did you apply to study and <b>why have you chosen to study this course at UEL</b>?`,
-            answer: `•	I have apply Top the MSc Computer science with industrial placement at the university of east London.
+            question: `Q3 -What course did you apply to study and <b>why have you chosen to study this course at UEL</b> <b> OR </b> Module Name?`,
+            answer: `•	I have apply Top the MSc Computer science at the university of east London.
         <br />•	  After completed my graduation. I started working in IT Company. As I have very much interested in technology side of computer activities.
         <br />•	  I have research about this course and see how Importance of this course in Indian market.
         <br />•	  This course is appropriate top me because it is not easy to get job in any of the IT companies in India with having normal degree, but after completed my 1 years in MSc Computer science I can be able to apply in any of IT Company in India with having an international degree.
@@ -711,7 +713,7 @@ export const questionData = {
         },
         {
             id: 4,
-            question: `Q4 - What other UK universities did you research for the course you have applied for? What made those options less attractive than studying at the University of East London? `,
+            question: `Q4 - What other UK universities did you research for the course you have applied for? What made those options less attractive than studying at the University of East London?  <b> OR </b> Other University`,
             answer: `•	 When, I short listed Universities to study International MSc Computer science in UK
 
             <br />->  I have research about three Different university such as – 
@@ -888,5 +890,20 @@ export const questionData = {
             
             <br />Another reason I love this book is the emphasis on empathy and understanding. The principle is not just manipulating others to get what you want, but genuinely caring about others and trying to understand their point of view. This is an important aspect of communicating effectively and building strong relationships.`
         },
+        {
+            id:14,
+            question:`Q14 - Favorite Flower - Rose`,
+            answer:`Beauty: Roses are known for their stunning beauty and come in a variety of colors, shapes, and sizes. They are often used in floral arrangements, gardens, and as a symbol of love and romance.
+
+            <br />Fragrance: Many varieties of roses have a delightful scent, which can be enjoyed both in the garden and in the home.
+            
+            <br />Symbolism: Roses have been used as a symbol for various emotions and occasions, such as love, passion, friendship, gratitude, and sympathy.
+            
+            <br />Health benefits: Roses contain antioxidants and other beneficial compounds that may help improve skin health, reduce inflammation, and boost the immune system.
+            
+            <br />Easy to grow: Many types of roses are relatively easy to grow, making them a popular choice for home gardeners.
+            
+            <br />Overall, whether you choose a rose for its beauty, fragrance, symbolism, health benefits, or ease of growing, there are plenty of good reasons to add this lovely flower to your life.`
+        }
     ]
 }
