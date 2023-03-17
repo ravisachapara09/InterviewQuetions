@@ -838,7 +838,7 @@ export const questionData = {
             <br />•	 And, with the help of my strong academic background and my knowledge I has selected as a MURN stack Developers in That Company
             <br />•	 As, After serving for 1.5 years in that role I fell that something has missing in my knowledge to dominate the IT Industry.
             <br />•	 And, to till that role of Knowledge
-            <br />•	 So, Now I want to deep and more knowledge and skills in IT filed by this course
+            <br />•	 I chose this course because it mostly relates to my current work experience as a software developer. UEL has the same course subject from which I can advance my Advanced Software Engineering and advance my career. As Advanced Software Engineering is a booming industry, I chose this course because it relates to my current job. In addition, this course has subjects like cloud computing and computer security.I selected the university because it offers courses in computer security, cloud computing, and artificial intelligence at the master's level. By taking these courses, I can deepen my understanding of these topics.
             <br />•	 So, I decided to pursue my master in this course on in this university
             `
         },

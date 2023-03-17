@@ -52,8 +52,8 @@ const QuetionsBNU = () => {
                             questionData[selectedUniversity].filter((e) => searchValue.length > 0 ? e.question.toLocaleLowerCase().includes(searchValue.toLocaleLowerCase()) : true).map((e, index) => {
                                 return (
                                     <AccordionItem>
-                                        <AccordionHeader targetId={index + 1} onClick={() => toggle(index + 1)}><p className='fw-bold' dangerouslySetInnerHTML={{ __html: e.question }}></p></AccordionHeader>
-                                        <AccordionBody accordionId={index + 1} >
+                                        <AccordionHeader style={{ fontSize: '15px' }} targetId={index + 1} onClick={() => toggle(index + 1)}><p className='fw-bold' dangerouslySetInnerHTML={{ __html: e.question }}></p></AccordionHeader>
+                                        <AccordionBody style={{ margin: '0 90px', fontSize: '12px' }} accordionId={index + 1} >
                                             <p dangerouslySetInnerHTML={{ __html: e.answer }}></p>
                                         </AccordionBody>
                                     </AccordionItem>
